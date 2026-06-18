@@ -10,10 +10,10 @@ We would like to clarify that this is an independent project and has no connecti
 
 기존의 nc 명령어 대신 ncat, socat, openssl를 사용하여 ssl 접속을 허용합니다.
 
-## [dome service](https://dklodd.minpeter.tech)
+## [dome service](https://dklodd.minpeter.uk)
 
-- mathematian-in-wonderland: [dklodd.minpeter.tech/0](https://dklodd.minpeter.tech/0)
-- admin panel: [dklodd.minpeter.tech/admin](https://dklodd.minpeter.tech/admin) (admin:admin)
+- mathematian-in-wonderland: [dklodd.minpeter.uk/0](https://dklodd.minpeter.uk/0)
+- admin panel: [dklodd.minpeter.uk/admin](https://dklodd.minpeter.uk/admin) (admin:admin)
 
 ### How to use
 
